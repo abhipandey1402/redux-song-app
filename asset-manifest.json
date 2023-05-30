@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-song-app/static/css/main.0257999b.css",
+    "main.js": "/redux-song-app/static/js/main.2b702da4.js",
+    "index.html": "/redux-song-app/index.html",
+    "main.0257999b.css.map": "/redux-song-app/static/css/main.0257999b.css.map",
+    "main.2b702da4.js.map": "/redux-song-app/static/js/main.2b702da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0257999b.css",
+    "static/js/main.2b702da4.js"
+  ]
+}
