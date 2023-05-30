@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(72, 75, 243);
+}
+
+body{
+    max-width: 100%;
+    width: 100vw;
+}
+
+.title{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+.songList{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    padding: 8px;
+    color: white;
+    border: 1px solid white;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.songListButton{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.songDetail{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 80px;
+    top: 100px;
+    padding: 100px 150px ;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.songDetail p{
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.songDetail h3{
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(72, 75, 243);
+}
